@@ -16,3 +16,16 @@
 4. Receive the server’s response.
 5. Print the server’s response.
 6. Close the socket.
+
+## Examples
+
+Example 1:
+```cmd
+python hack.py localhost 9090 password
+Wrong password!
+```
+Example 2:
+```cmd
+python hack.py 127.0.0.1 9090 qwerty
+Connection Success!
+```
