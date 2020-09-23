@@ -57,3 +57,8 @@ if __name__ == '__main__':
 
     pass
  ```
+## Stage 2/5:
+## Objectives
+1. Parses the command line and gets two arguments that are IP address and port.
+2. Tries different passwords until it finds the correct one.
+3. Prints the password it found.
